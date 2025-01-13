@@ -1,0 +1,4 @@
+# Required dependencies for the Azure Function App
+azure-functions
+requests
+# Add any additional libraries you are using in your project below
